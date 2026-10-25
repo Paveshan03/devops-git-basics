@@ -1,3 +1,1 @@
-Hi I am Paveshan, an IT support professional with experiance
-echo I am learning git, Devops.>>README.md
-echo v1.0.0
+v1.0.0
